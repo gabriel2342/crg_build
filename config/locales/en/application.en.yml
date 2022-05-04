@@ -1,8 +1,8 @@
 en:
   application:
-    name: Untitled Application
+    name: CRG BUILDER
     owner: Unidentified Developer
     description: "You can update this description in `config/locales/en/application.en.yml`."
-    keywords: untitled application seo keywords
+    keywords: crg builder seo keywords
     support_email: change.me@localhost
-    key: untitled_application
+    key: crg_builder
